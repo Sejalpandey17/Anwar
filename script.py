@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 import pytz
 import requests
 
-username = "anwarchegg05@gmail.com"
+username = "archegg05@gmail.com"
 password = "Author@05"
 user_bot_chatID = '1155462778'
 account_name = "Anwar"
